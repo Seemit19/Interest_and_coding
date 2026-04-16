@@ -10,5 +10,8 @@ qr = qrc.QRCode(version = 1,
                    box_size=10,
                    border=4)
 
-qr.add_data(" ")
+qr.add_data("https://www.linkedin.com/in/seemit-kumar-03b7a8263/")
+qr.make(fit=True)
+img = qr.make_image(fill_color = "yellow", back_color = "black")
 
+img.save("linkedin_profile.png")
