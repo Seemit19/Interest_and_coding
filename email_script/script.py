@@ -6,3 +6,4 @@ ob.starttls()
 ob.login('')
 subject = "test_python"
 body = "I Love Python"
+message = "subject:{}\n\n{}".format(subject,body)
