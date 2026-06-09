@@ -6,4 +6,4 @@ This is just a space where I store the fun coding projects I do for myself. They
 
 **[Timer](https://github.com/Seemit19/Interest_and_coding/tree/main/Timer)** is a timer, very basic stopwatch, ready to use. Two versions of timer is available one has the bug and the other is bug mitigated version using made with OOP concept. ⏱️
 
-**[QR Code Generator]()**
+**[QR Code Generator](https://github.com/Seemit19/Interest_and_coding/tree/main/QR%20code%20generator)**
